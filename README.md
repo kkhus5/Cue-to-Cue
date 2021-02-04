@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/d7f049aa00b6a057d3b4/maintainability)](https://codeclimate.com/github/kkhus5/Cue-to-Cue/maintainability)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
