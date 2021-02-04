@@ -7,3 +7,4 @@ Feature: Basic Home page rendering
     Given I am on the home page
     Then I should not see "Abhinav Dhulipala"
     And I should not see "Kyle Khus"
+    And I should not see "Anthony Jang"
