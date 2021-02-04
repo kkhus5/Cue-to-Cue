@@ -40,8 +40,8 @@ script:
   #- bundle exec rake                    # Backend specs
   #- npm test -- --browsers Firefox      # Frontend specs
   #- npm test                            # Frontend linting & specs
-  - bundle exec rake cucumber
-  - bundle exec rake rspec
+  - bundle exec cucumber
+  - bundle exec rspec
 
 # Pipe the coverage data to Code Climate
 after_script:
