@@ -5,5 +5,5 @@ Feature: Basic Home page rendering
 
   Scenario: Home page where we should see all our Devs names
     Given I am on the home page
-    Then I should see "Abhinav Dhulipala"
-    And I should see "Kyle Khus"
+    Then I should not see "Abhinav Dhulipala"
+    And I should not see "Kyle Khus"

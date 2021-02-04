@@ -27,7 +27,7 @@ before_install:
   #- sh -e /etc/init.d/xvfb start        # Start xvfb (for headless browser testing)
 
 install:
-  - bundle install --without production --path=${BUNDLE_PATH:-vendor/bundle}  # Install ruby gems, excluding production only gems such as unicorn (already present by default in Travis)
+  - bundle install --without production  # Install ruby gems, excluding production only gems such as unicorn (already present by default in Travis)
   - npm install                         # Install npm dependencies
   #- npm install karma-firefox-launcher codeclimate-test-reporter
 
@@ -40,8 +40,8 @@ script:
   #- bundle exec rake                    # Backend specs
   #- npm test -- --browsers Firefox      # Frontend specs
   #- npm test                            # Frontend linting & specs
-  - cucumber
-  - rspec
+  - bundle exec rake cucumber
+  - bundle exec rake rspec
 
 # Pipe the coverage data to Code Climate
 after_script:
