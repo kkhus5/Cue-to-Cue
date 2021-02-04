@@ -7,7 +7,10 @@
 require 'cucumber/rails'
 require 'simplecov'
 
-SimpleCov.start
+SimpleCov.start do
+  add_filter 'features/step_definitions/'
+  add_filter 'features/support'
+end
 
 # frozen_string_literal: true
 
