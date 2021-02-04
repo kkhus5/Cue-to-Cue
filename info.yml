@@ -1,0 +1,42 @@
+project:
+  name: 'q2q'
+  owner: 'cs169'
+  teamId: '6'
+  identities:
+    pivotal:
+      url: 'https://www.pivotaltracker.com/n/projects/2487714'
+    heroku:
+      url: 'https://floating-tundra-20878.herokuapp.com'
+    travis:
+      url: 'https://travis-ci.com/github/kkhus5/Cue-to-Cue'
+  members:
+    member1:
+      name: 'Kyle Khus'
+      surname: 'Khus'
+      githubUsername: 'kkhus5'
+      pivotalUsername: 'kylekhus'
+      herokuEmail: 'kkhus5@berkeley.edu'
+    member2:
+      name: 'Abhinav Dhulipala'
+      surname: 'Dhulipala'
+      githubUsername: 'abhinavDhulipala'
+      pivotalUsername: 'abhinavhrushikesh'
+      herokuEmail: 'abhinav.dhulipala@berkeley.edu'
+    member3:
+      name: 'Anthony Jang'
+      surname: 'Jang'
+      githubUsername: 'asunanuna'
+      pivotalUsername: 'anthonyjang'
+      herokuEmail: 'jang.anthony2000@gmail.com'
+    member4:
+      name: 'Matthew Fyke'
+      surname: 'Fyke'
+      githubUsername: 'mattfyke'
+      pivotalUsername: 'mattrfyke'
+      herokuEmail: 'mattrfyke@berkeley.edu'
+    member4:
+      name: 'Justin Wong'
+      surname: 'Wong'
+      githubUsername: 'JustinRWong'
+      pivotalUsername: 'justinwongA'
+      herokuEmail: 'justinryanwong@berkeley.edu'
