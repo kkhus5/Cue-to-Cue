@@ -8,7 +8,7 @@ project:
     heroku:
       url: 'https://floating-tundra-20878.herokuapp.com'
     travis:
-      url: 'https://travis-ci.com/github/kkhus5/Cue-to-Cue'
+      url: https://travis-ci.org/github/kkhus5/Cue-to-Cue
   members:
     member1:
       name: 'Kyle Khus'
