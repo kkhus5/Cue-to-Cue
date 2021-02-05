@@ -34,3 +34,9 @@ project:
       githubUsername: 'mattfyke'
       pivotalUsername: 'mattrfyke'
       herokuEmail: 'mattrfyke@berkeley.edu'
+    member5:
+      name: 'Justin'
+      surname: 'Wong'
+      githubUsername: 'JustinRWong'
+      pivotalUsername: 'justinwongA'
+      herokuEmail: 'justinryanwong@berkeley.edu'
