@@ -16,3 +16,27 @@ project:
       githubUsername: 'kkhus5'
       pivotalUsername: 'kylekhus'
       herokuEmail: 'kkhus5@berkeley.edu'
+    member2:
+      name: 'Abhinav'
+      surname: 'Dhulipala'
+      githubUsername: 'abhinavDhulipala'
+      pivotalUsername: 'abhinavhrushikesh'
+      herokuEmail: 'abhinav.dhulipala@berkeley.edu'
+    member3:
+      name: 'Anthony'
+      surname: 'Jang'
+      githubUsername: 'asunanuna'
+      pivotalUsername: 'anthonyjang'
+      herokuEmail: 'jang.anthony2000@gmail.com'
+    member4:
+      name: 'Matthew'
+      surname: 'Fyke'
+      githubUsername: 'mattfyke'
+      pivotalUsername: 'mattrfyke'
+      herokuEmail: 'mattrfyke@berkeley.edu'
+    member5:
+      name: 'Justin'
+      surname: 'Wong'
+      githubUsername: 'JustinRWong'
+      pivotalUsername: 'justinwongA'
+      herokuEmail: 'justinryanwong@berkeley.edu'
