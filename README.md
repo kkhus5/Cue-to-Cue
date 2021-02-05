@@ -1,6 +1,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/d7f049aa00b6a057d3b4/maintainability)](https://codeclimate.com/github/kkhus5/Cue-to-Cue/maintainability)
 
-[![Build Status](https://travis-ci.org/kkhus5/Cue-to-Cue.svg?branch=main)](https://travis-ci.org/kkhus5/Cue-to-Cue)
+[![Build Status](https://travis-ci.com/kkhus5/Cue-to-Cue.svg?branch=main)](https://travis-ci.com/kkhus5/Cue-to-Cue)
 
 # README
 
