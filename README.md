@@ -1,6 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/d7f049aa00b6a057d3b4/maintainability)](https://codeclimate.com/github/kkhus5/Cue-to-Cue/maintainability)
-
-[![Build Status](https://travis-ci.com/kkhus5/Cue-to-Cue.svg?branch=main)](https://travis-ci.com/kkhus5/Cue-to-Cue)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d7f049aa00b6a057d3b4/maintainability)](https://codeclimate.com/github/kkhus5/Cue-to-Cue/maintainability) [![Build Status](https://travis-ci.com/kkhus5/Cue-to-Cue.svg?branch=main)](https://travis-ci.com/kkhus5/Cue-to-Cue) [![Bluejay Dashboard](https://img.shields.io/badge/bluejay-dashboard_6-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-GH-kkhus5_Cue-to-Cue/main)
 
 # README
 
