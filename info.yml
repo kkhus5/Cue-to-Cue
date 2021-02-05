@@ -17,7 +17,7 @@ project:
       pivotalUsername: 'kylekhus'
       herokuEmail: 'kkhus5@berkeley.edu'
     member2:
-      name: 'Abhinav'
+      name: 'Abhinav Hrushikesh'
       surname: 'Dhulipala'
       githubUsername: 'abhinavDhulipala'
       pivotalUsername: 'abhinavhrushikesh'
@@ -38,5 +38,5 @@ project:
       name: 'Justin'
       surname: 'Wong'
       githubUsername: 'JustinRWong'
-      pivotalUsername: 'justinwong'
+      pivotalUsername: 'justinwongA'
       herokuEmail: 'justinryanwong@berkeley.edu'
