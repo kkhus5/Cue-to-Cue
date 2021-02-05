@@ -29,3 +29,4 @@ Things you may want to cover:
 
 Ruby Version >= 2.6.6
 * "I am personally using 3.0.0 with Rails version 6.1.1" - Kyle
+* "I am using Amazon workspace now" - Justin

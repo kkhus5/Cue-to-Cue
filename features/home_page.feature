@@ -8,3 +8,4 @@ Feature: Basic Home page rendering
     Then I should not see "Abhinav Dhulipala"
     And I should see "Kyle Khus"
     And I should see "Anthony"
+    And I should see "Justin"
