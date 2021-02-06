@@ -9,3 +9,4 @@ Feature: Basic Home page rendering
     And I should see "Kyle Khus"
     And I should see "Anthony"
     And I should see "Justin"
+    And I should see "Matt"
